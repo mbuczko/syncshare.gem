@@ -1,6 +1,6 @@
-# Syncshare
+# Syncshare gem
 
-TODO: Write a gem description
+This is a simple gem to construct Syncshare client
 
 ## Installation
 
